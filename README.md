@@ -2,7 +2,7 @@
 
 *Platformer Video Game*
 
-**JumpKnight** is a 2D platformer game where players navigate challenging levels, overcome obstacles, and experience smooth animations and responsive controls.
+JumpKnight is a beginner-friendly 2D platformer where players control a character through simple yet engaging challenges. This project focuses on smooth animations, basic obstacles, and responsive controls to provide a solid foundation for platformer gameplay.
 
 ---
 
