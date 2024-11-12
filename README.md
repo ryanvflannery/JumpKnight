@@ -2,7 +2,7 @@
 
 *Platformer Video Game*
 
-JumpKnight is a beginner-friendly 2D platformer where players guide a brave knight through a series of simple yet engaging obstacles. With smooth animations, basic enemy interactions, and responsive controls, this project provides a solid foundation for platformer gameplay. Created as an exploration of 2D game design, JumpKnight showcases core mechanics and offers a fun, accessible experience.
+JumpKnight is a beginner friendly 2D platformer where players guide a brave knight through a series of simple yet engaging obstacles. With smooth animations, basic enemy interactions, and responsive controls, this project provides a solid foundation for platformer gameplay. Created as an exploration of 2D game design, JumpKnight showcases core mechanics and offers a fun, accessible experience.
 
 ---
 
