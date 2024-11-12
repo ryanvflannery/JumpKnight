@@ -6,14 +6,6 @@ JumpKnight is a beginner friendly 2D platformer where players guide a brave knig
 
 ---
 
-## Screenshots
-
-*Screenshots coming soon!*
-
-_Add images of gameplay, character animations, and level designs here._
-
----
-
 ## Demo Video
 
 *Demo video coming soon!*
